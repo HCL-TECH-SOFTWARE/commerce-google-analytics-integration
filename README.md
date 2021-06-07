@@ -1,5 +1,7 @@
 # Google-Analytics-Integration
 
+# NOTE:  This asset is compatible with pre- 9.1.4.0 release versions of HCL Commerce.  In 9.1.4.0 this integration has been productized.
+
 **Adding Google Analytics to React Store, using Google Tag Manager **
 
 We need the below things for implementation of GA360 on React store 
